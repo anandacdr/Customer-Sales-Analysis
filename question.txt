@@ -6,3 +6,7 @@
 4. What products are most often sold together?
 5. What product sold the most? Why do you think it sold the most?
 
+1 + 4 = 5
+2 + 5 = 12
+3 + 6 = 21
+5 + 8 = ?

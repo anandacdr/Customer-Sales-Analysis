@@ -1,0 +1,6 @@
+1. Show the total revenue for each invoice
+2. Show the total revenue for each category
+3. Show the total revenue by shopping mall and payment method
+4. Show the total revenue by age group
+5. Show the average quantity and price per invoice
+6. What are the top 10 customers by total spending, broken down by gender, and which categories do they spend the most on?
