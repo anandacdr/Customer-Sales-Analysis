@@ -27,6 +27,8 @@ This data used in this project is a simulated customer sales dataset that was cr
 
 `invoice_items`: contains information on items purchased in each transaction such as category, quantity, and price.
 
+`And More Columns...`
+
 ## Project Overview
 The SQL scripts in this project perform the following tasks:
 
